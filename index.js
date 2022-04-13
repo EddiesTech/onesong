@@ -20,8 +20,8 @@ const config = {
   auth0Logout: true,
   secret: 'thisisthesecret54321',
   baseURL: 'https://onesong.eddiecoldrick.com',
-  clientID: '2Nbm68ETSXYbvdHUNSAUBKRwPWk60cep',
-  issuerBaseURL: 'https://pi4li.eu.auth0.com',
+  clientID: 'yourclientid',
+  issuerBaseURL: 'https://yourtenant.eu.auth0.com',
   routes: {
     login: "/admin/login",
     callback: "/admin/callback",
